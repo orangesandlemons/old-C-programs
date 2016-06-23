@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-///BUG CAUSED BY LEFT (I THINK)
 int cards[14];///13 types of cards, the values tell how many of that type remain. use values 1-13, as it makes it simpler for maths/print-out
 int hands[4]={1,1,1,1};/// this tells how many hands the player has.
 int hand [4][4][15];///the actual hands. 13 stores the amount of cards in the hand, 14 stores the bet on the hand. could do with less
@@ -133,7 +132,7 @@ void game()
                 }
                 if (finance[var]>=hand[var][var2][14])//only can split if have enough money
                 {
-                    split();
+                    left+=split();//amount of hands in play for dealer to hit
                 }
                     if (value()>21)
                     {
@@ -332,7 +331,7 @@ int split()
         scanf(" %c",&dispose);
         if (dispose=='n')
         {
-            return 0;
+            return splits;
         }
         if (dispose=='y')
         {
@@ -355,6 +354,7 @@ int split()
 
 
     }
+    return splits;
 }
 
 int doubledown()
