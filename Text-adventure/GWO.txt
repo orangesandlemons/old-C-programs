@@ -1,0 +1,51 @@
+
+Welcome to the game. Please choose a sword (1), bow (2)
+or spear(3)
+/o1g0o2g1o3g2/
+/cc1/2/3/
+You chose a Sword.Do you want to go hunting (1) or to 
+the tournament(2)?
+/cb5/4/
+You chose a bow.Do you want to go hunting (1) or to 
+the tournament(2)?
+/cb5/4/
+You chose a spearDo you want to go hunting (1) or to 
+the tournament(2)?
+/cb5/4/
+Welcome to the tournament! If you have a sword you can fight (1)
+If you have a bow, join the archery competion (2). Or you can choose
+to relax (3).
+/o1u0o2u1/
+/cc6/7/8/
+While hunting, a huge boar runs at you! If you have a sword, you can slash
+at it. (1). Or you could run up a tree (2).
+/o1u0/
+/cb10/11/
+You win your bout! Well done!
+/E
+you finish 1st in the compitition! Well done!
+/E
+After relaxing a while, you get bored. Do you go hunting (1)
+or go home (2)?
+/cb5/9/
+You go home. How dull.
+/E
+You take a slah at the boar, but it is too quick! It gores you, and
+you die.
+Sorry
+/E
+If you have the bow you can shoot (1) Or you can stick the boar
+with your spear (2) or wait till you are rescued (3).
+/o1u1o2u2/
+/cc12/13/14/
+You kill it! Climbing down, you sever it's head for a trophy, and then
+ go home.It's been an eventful day.
+/E 
+Your spear wounds the boar, but you can't quite get a killing blow. 
+It eventually dies of blood-loss, and you take it's head as a trophy,
+feeling slightly embarrased to do so. And then it's off home,as you
+were up the tree long enough.
+/E
+You are eventually rescued, but never,  ever talk about it ever again.
+/E
+14  
