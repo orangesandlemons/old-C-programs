@@ -1,0 +1,6 @@
+To create a quiz, just write it in a plain text file(.txt). 
+To load it just use file name without .txt extention.  If not in the same folder as the .exe, you will need to add the path as usual, but without the .txt at the end
+At the moment there needs to be a new-line before the first question.
+After a newline it will look for a 'q' for question, 'a' for incorrect answer and 'r' for right answer, so questions with newlines should have a space to avoid any problems  
+listing the answers as a b c d etc has to be done by the author, although I may later automate this.
+
