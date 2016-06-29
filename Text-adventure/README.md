@@ -24,6 +24,7 @@ chapter choice 1 leads to 56, 2 to 45, 3 to 4:
 /cc56/45/4/ 
 
 IMPORTANT- currently the first 'chapter' is 0, and it counts up from there. 
+
 IMPORTANT- don't forget to regularly start a newline so that your story displays well on console!
 
 
