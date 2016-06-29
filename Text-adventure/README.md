@@ -38,5 +38,5 @@ If you want a choice to **give** an object to the player, put the choice number 
 the g is replaced by a u. 
 You can make a choice need multiple objects, but to allow choice be accesable via either one object or another has not been coded in.
 
- NOTE: This was all dwritten a while ago, and I was planning on writing a cleaner coded version which eliminates all the quirks of the
+ NOTE: This was all written a while ago, and I was planning on writing a cleaner coded version which eliminates all the quirks of the
  current system, but currently this is on hold.
